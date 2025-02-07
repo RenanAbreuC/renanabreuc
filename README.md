@@ -1,16 +1,20 @@
-## Hi there 👋
+## `print("Olá, me chamo Renan!👋")`
 
-<!--
-**RenanAbreuC/renanabreuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Inteligência de Dados na [Bayer](https://www.bayer.com.br/pt/).
 
-Here are some ideas to get you started:
+🎓 Cursando Bacharelado em Ciência da Computação na [UNINOVE](https://www.uninove.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏽‍💻 Técnico em Desenvolvimento de Sistemas pela [ETEC](https://www.cps.sp.gov.br/etec/).
+
+🔭 Entusiata sobre a Área de Dados!
+
+## 
+
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,c&theme=dark)](https://skillicons.dev)
+
+##
+
+<div> 
+  <a href="www.linkedin.com/in/renanabreuc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:renan15092005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
