@@ -1,7 +1,5 @@
 ## `print("Olá, me chamo Renan!👋")`
 
-🌱 Inteligência de Dados na [Bayer](https://www.bayer.com.br/pt/).
-
 🎓 Cursando Bacharelado em Ciência da Computação na [UNINOVE](https://www.uninove.br/).
 
 👨🏽‍💻 Técnico em Desenvolvimento de Sistemas pela [ETEC](https://www.cps.sp.gov.br/etec/).
