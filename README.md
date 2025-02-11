@@ -10,7 +10,11 @@
 
 ## 
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,c&theme=dark)](https://skillicons.dev)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="4%"/>](https://www.python.org/) &nbsp; 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="4.2%"/>](https://pandas.pydata.org/) &nbsp; 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" width="4%"/>](https://matplotlib.org/) &nbsp; 
+[<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="5.5%"/>](https://seaborn.pydata.org/) &nbsp; 
+[<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="5.5%"/>](https://www.mysql.com/) &nbsp; 
 
 ##
 
